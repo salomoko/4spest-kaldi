@@ -37,12 +37,13 @@ intro:
   heading: What we offer
   description: NMDA licensed technicians are arguably the best that the industry can offer.
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 'Better Termite & Pest Control, a Family-Owned Business'
+  description: >-
+    Our professional, skilled and courteous service technicians are equipped
+    with the latest tools, technology, and knowledge to perform reliable
+    inspections. Our pest management technicians are prepared to answer any
+    questions and respond quickly to evaluate your pest problem, diagnose, and
+    provide treatments
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -91,5 +92,6 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
 
