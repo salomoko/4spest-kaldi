@@ -1,14 +1,10 @@
 ---
-title: Our Coffee
+title: 4 Season Pest Control
 type: products
 page: /products.html
 image: /img/products/jumbotron.jpg
 heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+description: NMDA licensed technicians are arguably the best that the industry can offer.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
@@ -39,11 +35,7 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  description: NMDA licensed technicians are arguably the best that the industry can offer.
 main:
   heading: Great coffee with no compromises
   description: >
@@ -99,4 +91,5 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
 
